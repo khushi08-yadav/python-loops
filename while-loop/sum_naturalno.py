@@ -5,4 +5,4 @@ while i<=n:
     sum+=i
     i+=1
     
-print("The sum of first n natural numbers is :",sum) 
+print("The sum of first n natural numbers is :",sum)
