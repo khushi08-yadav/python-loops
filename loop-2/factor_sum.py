@@ -1,6 +1,6 @@
 num = int(input("Enter a number: "))
-sum=0
+total=0
 for i in range(1, num + 1):
     if num % i == 0:
-        sum+=i
-print("The sum of factors ",sum)
+        total+=i
+print("The total of factors ",total)
